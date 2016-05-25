@@ -1,6 +1,6 @@
 # photonotes
 #Objective
-The app allows to the user to click pictures and store with notes to it
+The app allows to the user to click photos and store the photos with captions.
 #Technology
 <ul>
 <li>Android</li>
